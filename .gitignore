@@ -1,0 +1,5 @@
+/.vs
+/WorkerService/Log
+/WorkerService/GrpcServer.csproj.user
+/WorkerService/obj
+/WorkerService/bin
